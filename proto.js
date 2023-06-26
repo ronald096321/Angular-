@@ -160,4 +160,5 @@ Sum.prototype.add = function () {
 };
 
 var x = new Sum(5, 6);
+
 console.log(x.add());
